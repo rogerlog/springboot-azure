@@ -58,4 +58,4 @@
 
 - Endereço
 
-  https://springboot-1618609221337.azurewebsites.net/
+  https://springboot-1618609221337.azurewebsites.net/users
